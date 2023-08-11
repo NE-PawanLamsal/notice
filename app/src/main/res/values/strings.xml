@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">YCL Nepal</string>
+    <string name="bold" tools:ignore="ReferenceType">@font/lato_bold</string>
+    <string name="regular" tools:ignore="ReferenceType">@font/lato_regular</string>
+    <string name="nepali1" tools:ignore="ReferenceType">@font/ganess</string>
+    <string name="nepali2" tools:ignore="ReferenceType">@font/preeti_heavy</string>
+    <string name="nepali3" tools:ignore="ReferenceType">@font/preeti</string>
+    <string name="light" tools:ignore="ReferenceType">@font/lato_light</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string name="about_college">
+Young Communist League, Nepal is the youth wing of Communist Party of Nepal.The Young Communist League was formed by the CPN–Maoist at some point during the peoples war to support the revolution.</string>
+    <string name="college">With the development of the Communist Party in Nepal, different youth organizations were established. These organizations remained on the forefront and played an important role in both mass movements and in the peasants movement. The Akhil Nepal Yuba Sangathan (All Nepal Youth Organization) was established in 1981 under the chairmanship of Comrade Prachanda and it played a positive role in the question of making revolutionary political line. In 1991, it was renamed the Young Communist League (YCL) and during the period of preparation of the Peoples War, it played an important role in completing the preparation of the Peoples War.During the Peoples War it helped the Peoples War. In the new political context developed after the Peoples War and the nineteen-day-long Mass Movement, the Young Communist League was established on 2 December 2006. It conducted campaigns to establish a federal republic, and struggle for patriotism and republic and mobilized youth during the election of Constitution Assembly.</string>
+    <string name="Sachivalaya">There are maximum of 48 sachivalaya committee members. </string>
+    <string name="Karyalaya">There are maximum of 96 Karyalaya Committee Members.</string>
+    <string name="central">There are maximum of 48 CCM.</string>
+    <string name="aayog">There are maximum of 48 aayogs to help</string>
+
+</resources>

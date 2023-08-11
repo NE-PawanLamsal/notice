@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089300814788",
+    "firebase_url": "https://ycl-nepal-default-rtdb.firebaseio.com",
+    "project_id": "ycl-nepal",
+    "storage_bucket": "ycl-nepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089300814788:android:adf37d044c31d2606ae291",
+        "android_client_info": {
+          "package_name": "com.lamsal.pawan.yclnepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089300814788-f200ac91h0jtcqot3oj3i946270cpte2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9ngoUiA7XAJ41Lasi_29jqvrByYXpOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089300814788-f200ac91h0jtcqot3oj3i946270cpte2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
