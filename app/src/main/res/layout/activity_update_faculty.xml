@@ -23,14 +23,14 @@
         <de.hdodenhof.circleimageview.CircleImageView
             android:layout_width="60dp"
             android:layout_height="80dp"
-            android:src="@drawable/logo"/>
+            android:src="@drawable/ic_university"/>
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:textAlignment="center"
-            android:text="Young Communist League(YCL) Nepal"
+            android:text="University Management App"
             android:layout_marginLeft="2dp"
             android:textSize="20dp"
             android:textStyle="bold"
@@ -60,7 +60,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="sfof{no"
+                android:text="Administration"
                 android:gravity="center"
                 android:textSize="26dp"
                 android:textColor="@color/textColor"
@@ -96,7 +96,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text=";lrjfno"
+                android:text="Academic Council"
                 android:gravity="center"
                 android:textSize="26dp"
                 android:textColor="@color/textColor"
@@ -133,7 +133,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="cfof]u tyf ljefu"
+                android:text="Departments"
                 android:gravity="center"
                 android:textSize="26dp"
                 android:textColor="@color/textColor"
@@ -170,7 +170,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="s]lG›o sld6L"
+                android:text="Senate"
                 android:gravity="center"
                 android:textSize="26dp"
                 android:textColor="@color/textColor"

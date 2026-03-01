@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/ic_university" />
 
     <TextView
         android:id="@+id/textView"

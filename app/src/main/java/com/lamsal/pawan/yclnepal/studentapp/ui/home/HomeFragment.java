@@ -38,7 +38,7 @@ public class HomeFragment extends Fragment {
     }
 
     private void openMap() {
-        Uri uri = Uri.parse("geo:0,0?q=Communist+Party+of+Nepal+(Maoist+Center)");
+        Uri uri = Uri.parse("geo:0,0?q=Tribhuvan+University+Kirtipur+Nepal");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         intent.setPackage("com.google.android.apps.maps");
         startActivity(intent);

@@ -20,9 +20,9 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
     public void getFirebaseMessage(String title,String msg){
 
         NotificationCompat.Builder builder = new NotificationCompat.Builder(this,"myFirebaseChannel")
-                .setSmallIcon(R.drawable.logo)
+                .setSmallIcon(R.drawable.ic_university)
                 .setContentTitle("New Notice Uploaded")
-                .setContentText("YCL Nepal uploaded a new notice you may like to see it.")
+                .setContentText("University Management App posted a new notice.")
                 .setAutoCancel(true)
                 .setPriority(NotificationCompat.PRIORITY_MAX);
         NotificationManagerCompat manager = NotificationManagerCompat.from(this);
