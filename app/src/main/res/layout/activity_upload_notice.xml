@@ -26,14 +26,14 @@
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="60dp"
                 android:layout_height="80dp"
-                android:src="@drawable/logo"/>
+                android:src="@drawable/ic_university"/>
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:textAlignment="center"
-                android:text="Young Communist League(YCL) Nepal"
+                android:text="University Management App"
                 android:layout_marginLeft="2dp"
                 android:textSize="20dp"
                 android:textStyle="bold"

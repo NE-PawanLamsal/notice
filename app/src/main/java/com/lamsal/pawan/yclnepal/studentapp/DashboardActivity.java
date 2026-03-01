@@ -49,7 +49,7 @@ public class DashboardActivity extends AppCompatActivity implements NavigationVi
 
 
 
-        getSupportActionBar().setTitle("YCL Nepal");
+        getSupportActionBar().setTitle("University Management App");
 
         bottomNavigationView = findViewById(R.id.bottomNavigationView);
         navController = Navigation.findNavController(this,R.id.frame_layout);

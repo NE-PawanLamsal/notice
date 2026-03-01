@@ -19,7 +19,7 @@
                 android:id="@+id/course_icon"
                 android:layout_width="40dp"
                 android:layout_height="40dp"
-                android:src="@drawable/logo"/>
+                android:src="@drawable/ic_university"/>
 
             <TextView
                 android:id="@+id/course_title"

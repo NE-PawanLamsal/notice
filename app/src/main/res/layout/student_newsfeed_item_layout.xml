@@ -25,7 +25,7 @@
             <de.hdodenhof.circleimageview.CircleImageView
                 android:layout_width="60dp"
                 android:layout_height="80dp"
-                android:src="@drawable/logo"/>
+                android:src="@drawable/ic_university"/>
 
 
             <LinearLayout
@@ -110,7 +110,7 @@
 
         <ImageView
             android:id="@+id/showNoticeImage"
-            android:src="@drawable/logo"
+            android:src="@drawable/ic_university"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:scaleType="fitCenter"/>

@@ -19,7 +19,7 @@
             <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="YCL Tales"
+            android:text="University News"
             android:layout_marginTop="36dp"
             android:textSize="@dimen/title_size"
             android:layout_gravity="center_horizontal"
@@ -76,7 +76,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Karyalaya"
+                                android:text="Administration"
                                 android:layout_marginTop="@dimen/text_margin"
                                 android:textSize="@dimen/text_size"
                                 android:layout_marginHorizontal="@dimen/text_margin"
@@ -92,7 +92,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Sachivalaya"
+                                android:text="Academic Council"
                                 android:layout_marginTop="@dimen/text_margin"
                                 android:textSize="@dimen/text_size"
                                 android:layout_marginHorizontal="@dimen/text_margin"
@@ -109,7 +109,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Aayog and Bibhag"
+                                android:text="Departments"
                                 android:layout_marginTop="@dimen/text_margin"
                                 android:textSize="@dimen/text_size"
                                 android:layout_marginHorizontal="@dimen/text_margin"
@@ -125,7 +125,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Central Committee"
+                                android:text="Senate"
                                 android:layout_marginTop="@dimen/text_margin"
                                 android:textSize="@dimen/text_size"
                                 android:layout_marginHorizontal="@dimen/text_margin"
@@ -177,7 +177,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="YCL Nepal"
+                    android:text="University Management App"
                     android:layout_marginTop="@dimen/text_margin"
                     android:textSize="@dimen/text_size"
                     android:layout_marginHorizontal="@dimen/text_margin"
@@ -186,7 +186,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Perisdada-Kathmandu,Nepal"
+                    android:text="University Campus, Nepal"
                     android:layout_marginTop="@dimen/text_margin"
                     android:textSize="@dimen/text_size"
                     android:layout_marginHorizontal="@dimen/text_margin"
@@ -195,7 +195,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="yclchq@gmail.com"
+                    android:text="admin@university.edu"
                     android:layout_marginTop="@dimen/text_margin"
                     android:textSize="@dimen/text_size"
                     android:layout_marginHorizontal="@dimen/text_margin"
@@ -204,7 +204,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="01-4602417"
+                    android:text="01-0000000"
                     android:layout_marginTop="@dimen/text_margin"
                     android:textSize="@dimen/text_size"
                     android:layout_marginHorizontal="@dimen/text_margin"

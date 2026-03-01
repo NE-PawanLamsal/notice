@@ -31,17 +31,17 @@ public class AboutFragment extends Fragment {
         // Inflate the layout for this fragment
         View view =  inflater.inflate(R.layout.fragment_about, container, false);
         list = new ArrayList<>();
-        list.add(new CourseModel(R.drawable.logo,"Karyalaya",R.string.Karyalaya));
-        list.add(new CourseModel(R.drawable.logo,"Sachivalaya",R.string.Sachivalaya));
-        list.add(new CourseModel(R.drawable.logo,"Central Committee",R.string.central));
-        list.add(new CourseModel(R.drawable.logo,"Aayog & Bibhag",R.string.aayog));
+        list.add(new CourseModel(R.drawable.ic_university,"Administration",R.string.Karyalaya));
+        list.add(new CourseModel(R.drawable.ic_university,"Academic Council",R.string.Sachivalaya));
+        list.add(new CourseModel(R.drawable.ic_university,"Senate",R.string.central));
+        list.add(new CourseModel(R.drawable.ic_university,"Departments",R.string.aayog));
 
         adapter = new CourseAdapter(getContext(),list);
         viewPager = view.findViewById(R.id.viewPager);
         viewPager.setAdapter(adapter);
 
         ImageView imageView = view.findViewById(R.id.college_image);
-        Glide.with(getContext()).load(R.drawable.ycl).into(imageView);
+        Glide.with(getContext()).load(R.drawable.ic_university).into(imageView);
 
         map = view.findViewById(R.id.map);
 
@@ -55,7 +55,7 @@ public class AboutFragment extends Fragment {
         return view;
     }
     private void openMap() {
-        Uri uri = Uri.parse("geo:0,0?q=Communist+Party+of+Nepal+(Maoist+Center)");
+        Uri uri = Uri.parse("geo:0,0?q=Tribhuvan+University+Kirtipur+Nepal");
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
         intent.setPackage("com.google.android.apps.maps");
         startActivity(intent);
